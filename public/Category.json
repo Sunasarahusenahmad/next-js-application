@@ -1,0 +1,62 @@
+{
+  "category": {
+    "cwp": [
+      {
+        "id": 1,
+        "category": "Technology",
+        "title": "Introduction to Artificial Intelligence",
+        "date": "2023-08-01",
+        "imageUrl": "https://images.unsplash.com/photo-1625314887424-9f190599bd56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 2,
+        "category": "Travel",
+        "title": "Exploring the Serene Beaches of Bali",
+        "date": "2023-08-02",
+        "imageUrl": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dHJhdmVsfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 3,
+        "category": "Food",
+        "title": "Delicious Recipes from Around the World",
+        "date": "2023-08-03",
+        "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 4,
+        "category": "Fashion",
+        "title": "Latest Trends in Streetwear Blogs",
+        "date": "2023-08-04",
+        "imageUrl": "https://images.unsplash.com/photo-1618598827591-696673ab0abe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2F0ZWdvcnl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 5,
+        "category": "Health",
+        "title": "Introduction to Health Insurance",
+        "date": "2023-09-01",
+        "imageUrl": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aGVhbHRofGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 6,
+        "category": "Photography",
+        "title": "Exploring the Serene of Photography",
+        "date": "2023-09-02",
+        "imageUrl": "https://images.unsplash.com/photo-1613047503507-b8d01ce6af26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvdG9ncmFwaHklMjBjYW1lcmF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 7,
+        "category": "Personal",
+        "title": "I will write the Personal Blog",
+        "date": "2023-09-03",
+        "imageUrl": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29uYWwlMjBibG9nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 8,
+        "category": "Lifestyle",
+        "title": "Latest Trends in Lifestyle Blogs",
+        "date": "2023-09-04",
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1681224438760-b843eca36438?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fExpZmVzdHlsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      }
+    ]
+  }
+}

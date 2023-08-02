@@ -1,0 +1,27 @@
+{
+  "items": {
+    "bootstrap": [
+      {
+        "id": 1,
+        "title": "Goverment Web Application",
+        "body": "Taluka Goverment Website for People and Goverment Officers. A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs. This is because paragraphs show a reader where the subdivisions of an essay begin and end, and thus help the reader see the organization of the essay and grasp its main points. Paragraphs can contain many different kinds of information. A paragraph could contain a series of brief examples or a single long illustration of a general point. ",
+        "imageUrl": "./images/e_gov.png",
+        "docs": "https://valudas.com/react/e-gov"
+      },
+      {
+        "id": 2,
+        "title": "Fund Management System",
+        "body": "Fund Management System only helping the People. A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs. This is because paragraphs show a reader where the subdivisions of an essay begin and end, and thus help the reader see the organization of the essay and grasp its main points. Paragraphs can contain many different kinds of information. A paragraph could contain a series of brief examples or a single long illustration of a general point. ",
+        "imageUrl": "./images/varshik.png",
+        "docs": "https://valudas.com/react/varshikweb/"
+      },
+      {
+        "id": 3,
+        "title": "Coding Helps",
+        "body": "Coding Helpos is a powerfull website for beginner to learn easyly using this web. A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs. This is because paragraphs show a reader where the subdivisions of an essay begin and end, and thus help the reader see the organization of the essay and grasp its main points. Paragraphs can contain many different kinds of information. A paragraph could contain a series of brief examples or a single long illustration of a general point. ",
+        "imageUrl": "./images/coding_helps.png",
+        "docs": "https://codinghelps.com/"
+      }
+    ]
+  }
+}
